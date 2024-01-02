@@ -1,0 +1,114 @@
+.flower-head {
+
+    flex-shrink: 0;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.head-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.flower-div {
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+.flower-pic {
+    width: 500px;
+    height: 550px;
+    flex-shrink: 0;
+    padding-top: 50px;
+    justify-content: end;
+}
+
+.lets-make {
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.shop-btn {
+    border-radius: 5px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 10px 20px;
+    color: white;
+    border: 0;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 15px;
+}
+
+
+
+.festure {
+    padding-top: 60px;
+    text-align: center;
+}
+
+.img-corner {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img-corner-individual {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    height: 300px;
+    width: 300px;
+}
+
+.pink-flower {
+    display: flex;
+    text-decoration-line: underline;
+    font-size: 24px;
+    justify-content: space-around;
+}
+
+.hot-deal {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
+
+.off-part {
+    color: #E55473;
+}
+
+.hot-div {
+    text-align: center;
+}
+
+.instagram-part {
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+.insta-img-part {
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+
+.insta-img-individual {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 220px;
+    width: 200px;
+}
+
+.latest-deals {}
