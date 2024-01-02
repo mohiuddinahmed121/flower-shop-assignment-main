@@ -138,3 +138,15 @@
     background: #FFF;
     border: 1px solid white;
 }
+
+.footer-section {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 300px;
+    padding-top: 50px;
+}
+
+.flower-footer {
+    font-style: bolt;
+}
